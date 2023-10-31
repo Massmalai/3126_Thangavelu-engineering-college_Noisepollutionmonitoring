@@ -1,3 +1,5 @@
+#3126_Thangavelu-engineering-cologe_Noisepollutionmonitoring
+#example outputs of IoT sensor data transmission, platform UI, and mobile app interfaces.
 Step 1: IoT Sensor Setup:
 
 For this example, we'll use a Raspberry Pi with a USB microphone as the IoT sensor to capture noise data.
